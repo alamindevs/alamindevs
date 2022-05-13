@@ -54,3 +54,10 @@ Here are some ideas to get you started:
 </table>  
 
 <br/>  
+ <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/7oSkaaa"><img alt="alamindevs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alamindevs&custom_title=alamindevs's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
