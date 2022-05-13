@@ -44,7 +44,7 @@ Here are some ideas to get you started:
    </td>
  </tr>
   <tr>
-    <td width="100%">
+    <td>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamindevs&theme=vue-dark&hide_border=false" align="right" style="width: 100%" />
     </td>
   </tr>
