@@ -44,12 +44,12 @@ Here are some ideas to get you started:
    </td>
  </tr>
   <tr>
-    <td>
+    <td width="100%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamindevs&theme=city_light&hide_border=true" align="right" style="width: 100%" />
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100%">
     <img src="https://github-profile-trophy.vercel.app/?username=alamindevs&theme=flat&no-frame=false&no-bg=false&margin-w=4" align="right" style="width: 100%" />
     </td>
   </tr>
