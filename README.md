@@ -32,14 +32,20 @@ Here are some ideas to get you started:
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alamindevs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 98%" />
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamindevs&hide_border=true&layout=compact" align="right" style="width: 98%" /></div>
-
-</td></tr></table>  
+<table>
+  <tr>
+  <td valign="top" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=alamindevs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 98%" />
+  </td>
+  <td valign="top" width="50%">
+    <div align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamindevs&hide_border=true&layout=compact" align="right" style="width: 98%" />
+    </div>
+   </td>
+ </tr>
+  <tr>
+    <td width="100%">https://github-readme-streak-stats.herokuapp.com/?user=alamindevs&theme=vue-dark&hide_border=false</td>
+  </tr>
+</table>  
 
 <br/>  
