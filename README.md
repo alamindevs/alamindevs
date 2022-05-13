@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  </tr>
   <tr>
     <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamindevs&theme=vue-dark&hide_border=false" align="right" style="width: 100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamindevs&theme=city_light&hide_border=true" align="right" style="width: 100%" />
     </td>
   </tr>
 </table>  
